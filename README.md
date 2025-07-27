@@ -59,6 +59,13 @@ This is a terminal-based game where:
    - Gun shoots Snake
    - Water douses Gun
 ---
+## 🎮 Demo
+
+Here’s what the Snake-Water-Gun game looks like in action:
+
+![Game Demo](20250727_203139.jpg)
+
+---
 
 ## 🚀 How to Run
 
