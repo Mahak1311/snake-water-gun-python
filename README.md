@@ -1,4 +1,4 @@
-# 🐍 Snake Water Gun — Python Terminal Game
+# 🐍 Snake Water Gun — Python Terminal Game 
 
 Welcome to a fun and simple Python project that recreates the classic childhood game **"Snake, Water, Gun"** — a desi twist on **Rock, Paper, Scissors**!
 
